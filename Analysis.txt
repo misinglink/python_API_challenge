@@ -1,0 +1,13 @@
+Analysis of weatherpy
+
+Region Reepresentation:
+
+1) the south pole has low representation. I plotted the point with colors to help indicate distance from the equator. There is less cities far way from the equator in the south hemisphere then the north hemisphere. This may be because there is actually less cities in the southern hemisphere to pick from. I think europe and north america
+
+Regional Observations
+
+2) the two orange zones are the closest to the equator and they have quite different spreads of temperature. I notice that the equator region has a pretty small range of temperatures. 
+
+3) Contrasting with the region immediately south, you can see that the south region has more cities that are just as hot as the hottest city in the equator region than the equatore region. However, it also has a way lower lower range of temperatures. 
+
+4) The immediate region north of the equator region cities' don't reach high temps like its south counterpart. Instead, the region's 'max temp' is about halfway in the equator region's range, but its lower range extends almost double as the south counterpart. This means it has a lot colder cities and a lot more of them. I think this is due to Earth's axis tilt. Maybe the northern  hemisphere is farther away then the southern hemisphere during their respective summers. 
